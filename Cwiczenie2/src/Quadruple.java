@@ -10,7 +10,7 @@
 } 
  */
 
-package com.company.Zadanie2;
+
 
 import java.util.Scanner;
 
